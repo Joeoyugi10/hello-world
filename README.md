@@ -1,2 +1,4 @@
 # hello-world
-Joe Oyugi first
+Joe Oyugi
+Bsc Mathematics
+University of Nairobi
