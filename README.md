@@ -1,6 +1,6 @@
 # hello-world
 Joe Oyugi.
-Bsc Mathematics.
-University of Nairobi.
+Bsc Mathematics, Statistics Major, University of Nairobi.
+R user.
 Someone somewhere is needed.
-What is wrong with these teenagers?
+
